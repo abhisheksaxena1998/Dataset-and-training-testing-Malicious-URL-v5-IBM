@@ -1,4 +1,4 @@
-﻿# MUD_dataset
+﻿# Repository for Training and Testing of Malicious URL Detector
 Malicious-Urlv5
 
 This application is live at : https://mudvfinal.eu-gb.cf.appdomain.cloud/
